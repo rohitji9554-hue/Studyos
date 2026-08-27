@@ -1,0 +1,1060 @@
+{
+  "JEE_Main_PYQ": [
+    {
+      "id": "JEE_Main_2013",
+      "title": "JEE Main 2013",
+      "file": "JEE_Main_2013.json"
+    },
+    {
+      "id": "JEE_Main_2014",
+      "title": "JEE Main 2014",
+      "file": "JEE_Main_2014.json"
+    },
+    {
+      "id": "JEE_Main_2015",
+      "title": "JEE Main 2015",
+      "file": "JEE_Main_2015.json"
+    },
+    {
+      "id": "JEE_Main_2016",
+      "title": "JEE Main 2016",
+      "file": "JEE_Main_2016.json"
+    },
+    {
+      "id": "JEE_Main_2016_9th_April_Morning_Slot",
+      "title": "JEE Main 2016 9th April Morning Slot",
+      "file": "JEE_Main_2016_9th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2016_Offline",
+      "title": "JEE Main 2016 Offline",
+      "file": "JEE_Main_2016_Offline.json"
+    },
+    {
+      "id": "JEE_Main_2017",
+      "title": "JEE Main 2017",
+      "file": "JEE_Main_2017.json"
+    },
+    {
+      "id": "JEE_Main_2017_9th_April_Morning_Slot",
+      "title": "JEE Main 2017 9th April Morning Slot",
+      "file": "JEE_Main_2017_9th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2017_Offline",
+      "title": "JEE Main 2017 Offline",
+      "file": "JEE_Main_2017_Offline.json"
+    },
+    {
+      "id": "JEE_Main_2018",
+      "title": "JEE Main 2018",
+      "file": "JEE_Main_2018.json"
+    },
+    {
+      "id": "JEE_Main_2018_15th_April_Evening_Slot",
+      "title": "JEE Main 2018 15th April Evening Slot",
+      "file": "JEE_Main_2018_15th_April_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2018_15th_April_Morning_Slot",
+      "title": "JEE Main 2018 15th April Morning Slot",
+      "file": "JEE_Main_2018_15th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2018_16th_April_Morning_Slot",
+      "title": "JEE Main 2018 16th April Morning Slot",
+      "file": "JEE_Main_2018_16th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019",
+      "title": "JEE Main 2019",
+      "file": "JEE_Main_2019.json"
+    },
+    {
+      "id": "JEE_Main_2019_10th_April_Evening_Slot",
+      "title": "JEE Main 2019 10th April Evening Slot",
+      "file": "JEE_Main_2019_10th_April_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_10th_April_Morning_Slot",
+      "title": "JEE Main 2019 10th April Morning Slot",
+      "file": "JEE_Main_2019_10th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_10th_January_Evening_Slot",
+      "title": "JEE Main 2019 10th January Evening Slot",
+      "file": "JEE_Main_2019_10th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_10th_January_Morning_Slot",
+      "title": "JEE Main 2019 10th January Morning Slot",
+      "file": "JEE_Main_2019_10th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_11th_January_Evening_Slot",
+      "title": "JEE Main 2019 11th January Evening Slot",
+      "file": "JEE_Main_2019_11th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_11th_January_Morning_Slot",
+      "title": "JEE Main 2019 11th January Morning Slot",
+      "file": "JEE_Main_2019_11th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_12th_April_Evening_Slot",
+      "title": "JEE Main 2019 12th April Evening Slot",
+      "file": "JEE_Main_2019_12th_April_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_12th_April_Morning_Slot",
+      "title": "JEE Main 2019 12th April Morning Slot",
+      "file": "JEE_Main_2019_12th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_12th_January_Evening_Slot",
+      "title": "JEE Main 2019 12th January Evening Slot",
+      "file": "JEE_Main_2019_12th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_8th_April_Evening_Slot",
+      "title": "JEE Main 2019 8th April Evening Slot",
+      "file": "JEE_Main_2019_8th_April_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_8th_April_Morning_Slot",
+      "title": "JEE Main 2019 8th April Morning Slot",
+      "file": "JEE_Main_2019_8th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_9th_April_Evening_Slot",
+      "title": "JEE Main 2019 9th April Evening Slot",
+      "file": "JEE_Main_2019_9th_April_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_9th_April_Morning_Slot",
+      "title": "JEE Main 2019 9th April Morning Slot",
+      "file": "JEE_Main_2019_9th_April_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_9th_January_Evening_Slot",
+      "title": "JEE Main 2019 9th January Evening Slot",
+      "file": "JEE_Main_2019_9th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2019_9th_January_Morning_Slot",
+      "title": "JEE Main 2019 9th January Morning Slot",
+      "file": "JEE_Main_2019_9th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020",
+      "title": "JEE Main 2020",
+      "file": "JEE_Main_2020.json"
+    },
+    {
+      "id": "JEE_Main_2020_2nd_September_Evening_Slot",
+      "title": "JEE Main 2020 2nd September Evening Slot",
+      "file": "JEE_Main_2020_2nd_September_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_2nd_September_Morning_Slot",
+      "title": "JEE Main 2020 2nd September Morning Slot",
+      "file": "JEE_Main_2020_2nd_September_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_3rd_September_Evening_Slot",
+      "title": "JEE Main 2020 3rd September Evening Slot",
+      "file": "JEE_Main_2020_3rd_September_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_3rd_September_Morning_Slot",
+      "title": "JEE Main 2020 3rd September Morning Slot",
+      "file": "JEE_Main_2020_3rd_September_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_4th_September_Evening_Slot",
+      "title": "JEE Main 2020 4th September Evening Slot",
+      "file": "JEE_Main_2020_4th_September_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_4th_September_Morning_Slot",
+      "title": "JEE Main 2020 4th September Morning Slot",
+      "file": "JEE_Main_2020_4th_September_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_5th_September_Evening_Slot",
+      "title": "JEE Main 2020 5th September Evening Slot",
+      "file": "JEE_Main_2020_5th_September_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_5th_September_Morning_Slot",
+      "title": "JEE Main 2020 5th September Morning Slot",
+      "file": "JEE_Main_2020_5th_September_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_6th_September_Morning_Slot",
+      "title": "JEE Main 2020 6th September Morning Slot",
+      "file": "JEE_Main_2020_6th_September_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_7th_January_Evening_Slot",
+      "title": "JEE Main 2020 7th January Evening Slot",
+      "file": "JEE_Main_2020_7th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_7th_January_Morning_Slot",
+      "title": "JEE Main 2020 7th January Morning Slot",
+      "file": "JEE_Main_2020_7th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_8th_January_Evening_Slot",
+      "title": "JEE Main 2020 8th January Evening Slot",
+      "file": "JEE_Main_2020_8th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_8th_January_Morning_Slot",
+      "title": "JEE Main 2020 8th January Morning Slot",
+      "file": "JEE_Main_2020_8th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_9th_January_Evening_Slot",
+      "title": "JEE Main 2020 9th January Evening Slot",
+      "file": "JEE_Main_2020_9th_January_Evening_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2020_9th_January_Morning_Slot",
+      "title": "JEE Main 2020 9th January Morning Slot",
+      "file": "JEE_Main_2020_9th_January_Morning_Slot.json"
+    },
+    {
+      "id": "JEE_Main_2021",
+      "title": "JEE Main 2021",
+      "file": "JEE_Main_2021.json"
+    },
+    {
+      "id": "JEE_Main_2021_16th_March_Evening_Shift",
+      "title": "JEE Main 2021 16th March Evening Shift",
+      "file": "JEE_Main_2021_16th_March_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_16th_March_Morning_Shift",
+      "title": "JEE Main 2021 16th March Morning Shift",
+      "file": "JEE_Main_2021_16th_March_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_17th_March_Evening_Shift",
+      "title": "JEE Main 2021 17th March Evening Shift",
+      "file": "JEE_Main_2021_17th_March_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_17th_March_Morning_Shift",
+      "title": "JEE Main 2021 17th March Morning Shift",
+      "file": "JEE_Main_2021_17th_March_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_18th_March_Evening_Shift",
+      "title": "JEE Main 2021 18th March Evening Shift",
+      "file": "JEE_Main_2021_18th_March_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_18th_March_Morning_Shift",
+      "title": "JEE Main 2021 18th March Morning Shift",
+      "file": "JEE_Main_2021_18th_March_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_1st_September_Evening_Shift",
+      "title": "JEE Main 2021 1st September Evening Shift",
+      "file": "JEE_Main_2021_1st_September_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_20th_July_Evening_Shift",
+      "title": "JEE Main 2021 20th July Evening Shift",
+      "file": "JEE_Main_2021_20th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_20th_July_Morning_Shift",
+      "title": "JEE Main 2021 20th July Morning Shift",
+      "file": "JEE_Main_2021_20th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_22th_July_Evening_Shift",
+      "title": "JEE Main 2021 22th July Evening Shift",
+      "file": "JEE_Main_2021_22th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_24th_February_Evening_Shift",
+      "title": "JEE Main 2021 24th February Evening Shift",
+      "file": "JEE_Main_2021_24th_February_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_24th_February_Morning_Shift",
+      "title": "JEE Main 2021 24th February Morning Shift",
+      "file": "JEE_Main_2021_24th_February_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_25th_February_Evening_Shift",
+      "title": "JEE Main 2021 25th February Evening Shift",
+      "file": "JEE_Main_2021_25th_February_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_25th_February_Morning_Shift",
+      "title": "JEE Main 2021 25th February Morning Shift",
+      "file": "JEE_Main_2021_25th_February_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_25th_July_Morning_Shift",
+      "title": "JEE Main 2021 25th July Morning Shift",
+      "file": "JEE_Main_2021_25th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_26th_August_Evening_Shift",
+      "title": "JEE Main 2021 26th August Evening Shift",
+      "file": "JEE_Main_2021_26th_August_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_26th_August_Morning_Shift",
+      "title": "JEE Main 2021 26th August Morning Shift",
+      "file": "JEE_Main_2021_26th_August_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_26th_February_Evening_Shift",
+      "title": "JEE Main 2021 26th February Evening Shift",
+      "file": "JEE_Main_2021_26th_February_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_26th_February_Morning_Shift",
+      "title": "JEE Main 2021 26th February Morning Shift",
+      "file": "JEE_Main_2021_26th_February_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_27th_August_Evening_Shift",
+      "title": "JEE Main 2021 27th August Evening Shift",
+      "file": "JEE_Main_2021_27th_August_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_27th_August_Morning_Shift",
+      "title": "JEE Main 2021 27th August Morning Shift",
+      "file": "JEE_Main_2021_27th_August_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_27th_July_Evening_Shift",
+      "title": "JEE Main 2021 27th July Evening Shift",
+      "file": "JEE_Main_2021_27th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_27th_July_Morning_Shift",
+      "title": "JEE Main 2021 27th July Morning Shift",
+      "file": "JEE_Main_2021_27th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_31st_August_Evening_Shift",
+      "title": "JEE Main 2021 31st August Evening Shift",
+      "file": "JEE_Main_2021_31st_August_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2021_31st_August_Morning_Shift",
+      "title": "JEE Main 2021 31st August Morning Shift",
+      "file": "JEE_Main_2021_31st_August_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022",
+      "title": "JEE Main 2022",
+      "file": "JEE_Main_2022.json"
+    },
+    {
+      "id": "JEE_Main_2022_24th_June_Evening_Shift",
+      "title": "JEE Main 2022 24th June Evening Shift",
+      "file": "JEE_Main_2022_24th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_24th_June_Morning_Shift",
+      "title": "JEE Main 2022 24th June Morning Shift",
+      "file": "JEE_Main_2022_24th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_25th_July_Evening_Shift",
+      "title": "JEE Main 2022 25th July Evening Shift",
+      "file": "JEE_Main_2022_25th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_25th_July_Morning_Shift",
+      "title": "JEE Main 2022 25th July Morning Shift",
+      "file": "JEE_Main_2022_25th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_25th_June_Evening_Shift",
+      "title": "JEE Main 2022 25th June Evening Shift",
+      "file": "JEE_Main_2022_25th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_25th_June_Morning_Shift",
+      "title": "JEE Main 2022 25th June Morning Shift",
+      "file": "JEE_Main_2022_25th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_26th_July_Morning_Shift",
+      "title": "JEE Main 2022 26th July Morning Shift",
+      "file": "JEE_Main_2022_26th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_26th_June_Evening_Shift",
+      "title": "JEE Main 2022 26th June Evening Shift",
+      "file": "JEE_Main_2022_26th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_26th_June_Morning_Shift",
+      "title": "JEE Main 2022 26th June Morning Shift",
+      "file": "JEE_Main_2022_26th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_27th_July_Evening_Shift",
+      "title": "JEE Main 2022 27th July Evening Shift",
+      "file": "JEE_Main_2022_27th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_27th_July_Morning_Shift",
+      "title": "JEE Main 2022 27th July Morning Shift",
+      "file": "JEE_Main_2022_27th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_27th_June_Evening_Shift",
+      "title": "JEE Main 2022 27th June Evening Shift",
+      "file": "JEE_Main_2022_27th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_27th_June_Morning_Shift",
+      "title": "JEE Main 2022 27th June Morning Shift",
+      "file": "JEE_Main_2022_27th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_28th_July_Evening_Shift",
+      "title": "JEE Main 2022 28th July Evening Shift",
+      "file": "JEE_Main_2022_28th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_28th_July_Morning_Shift",
+      "title": "JEE Main 2022 28th July Morning Shift",
+      "file": "JEE_Main_2022_28th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_28th_June_Evening_Shift",
+      "title": "JEE Main 2022 28th June Evening Shift",
+      "file": "JEE_Main_2022_28th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_28th_June_Morning_Shift",
+      "title": "JEE Main 2022 28th June Morning Shift",
+      "file": "JEE_Main_2022_28th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_29th_July_Evening_Shift",
+      "title": "JEE Main 2022 29th July Evening Shift",
+      "file": "JEE_Main_2022_29th_July_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_29th_July_Morning_Shift",
+      "title": "JEE Main 2022 29th July Morning Shift",
+      "file": "JEE_Main_2022_29th_July_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_29th_June_Evening_Shift",
+      "title": "JEE Main 2022 29th June Evening Shift",
+      "file": "JEE_Main_2022_29th_June_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_29th_June_Morning_Shift",
+      "title": "JEE Main 2022 29th June Morning Shift",
+      "file": "JEE_Main_2022_29th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2022_30th_June_Morning_Shift",
+      "title": "JEE Main 2022 30th June Morning Shift",
+      "file": "JEE_Main_2022_30th_June_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023",
+      "title": "JEE Main 2023",
+      "file": "JEE_Main_2023.json"
+    },
+    {
+      "id": "JEE_Main_2023_10th_April_Evening_Shift",
+      "title": "JEE Main 2023 10th April Evening Shift",
+      "file": "JEE_Main_2023_10th_April_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_10th_April_Morning_Shift",
+      "title": "JEE Main 2023 10th April Morning Shift",
+      "file": "JEE_Main_2023_10th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_11th_April_Evening_Shift",
+      "title": "JEE Main 2023 11th April Evening Shift",
+      "file": "JEE_Main_2023_11th_April_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_11th_April_Morning_Shift",
+      "title": "JEE Main 2023 11th April Morning Shift",
+      "file": "JEE_Main_2023_11th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_12th_April_Morning_Shift",
+      "title": "JEE Main 2023 12th April Morning Shift",
+      "file": "JEE_Main_2023_12th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_13th_April_Evening_Shift",
+      "title": "JEE Main 2023 13th April Evening Shift",
+      "file": "JEE_Main_2023_13th_April_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_15th_April_Morning_Shift",
+      "title": "JEE Main 2023 15th April Morning Shift",
+      "file": "JEE_Main_2023_15th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_1st_February_Evening_Shift",
+      "title": "JEE Main 2023 1st February Evening Shift",
+      "file": "JEE_Main_2023_1st_February_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_1st_February_Morning_Shift",
+      "title": "JEE Main 2023 1st February Morning Shift",
+      "file": "JEE_Main_2023_1st_February_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_24th_January_Evening_Shift",
+      "title": "JEE Main 2023 24th January Evening Shift",
+      "file": "JEE_Main_2023_24th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_24th_January_Morning_Shift",
+      "title": "JEE Main 2023 24th January Morning Shift",
+      "file": "JEE_Main_2023_24th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_25th_January_Evening_Shift",
+      "title": "JEE Main 2023 25th January Evening Shift",
+      "file": "JEE_Main_2023_25th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_25th_January_Morning_Shift",
+      "title": "JEE Main 2023 25th January Morning Shift",
+      "file": "JEE_Main_2023_25th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_29th_January_Evening_Shift",
+      "title": "JEE Main 2023 29th January Evening Shift",
+      "file": "JEE_Main_2023_29th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_29th_January_Morning_Shift",
+      "title": "JEE Main 2023 29th January Morning Shift",
+      "file": "JEE_Main_2023_29th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_30th_January_Evening_Shift",
+      "title": "JEE Main 2023 30th January Evening Shift",
+      "file": "JEE_Main_2023_30th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_30th_January_Morning_Shift",
+      "title": "JEE Main 2023 30th January Morning Shift",
+      "file": "JEE_Main_2023_30th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_31st_January_Evening_Shift",
+      "title": "JEE Main 2023 31st January Evening Shift",
+      "file": "JEE_Main_2023_31st_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_31st_January_Morning_Shift",
+      "title": "JEE Main 2023 31st January Morning Shift",
+      "file": "JEE_Main_2023_31st_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_6th_April_Evening_Shift",
+      "title": "JEE Main 2023 6th April Evening Shift",
+      "file": "JEE_Main_2023_6th_April_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_6th_April_Morning_Shift",
+      "title": "JEE Main 2023 6th April Morning Shift",
+      "file": "JEE_Main_2023_6th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_8th_April_Evening_Shift",
+      "title": "JEE Main 2023 8th April Evening Shift",
+      "file": "JEE_Main_2023_8th_April_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2023_8th_April_Morning_Shift",
+      "title": "JEE Main 2023 8th April Morning Shift",
+      "file": "JEE_Main_2023_8th_April_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024",
+      "title": "JEE Main 2024",
+      "file": "JEE_Main_2024.json"
+    },
+    {
+      "id": "JEE_Main_2024_1st_February_Evening_Shift",
+      "title": "JEE Main 2024 1st February Evening Shift",
+      "file": "JEE_Main_2024_1st_February_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_1st_February_Morning_Shift",
+      "title": "JEE Main 2024 1st February Morning Shift",
+      "file": "JEE_Main_2024_1st_February_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_27th_January_Evening_Shift",
+      "title": "JEE Main 2024 27th January Evening Shift",
+      "file": "JEE_Main_2024_27th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_27th_January_Morning_Shift",
+      "title": "JEE Main 2024 27th January Morning Shift",
+      "file": "JEE_Main_2024_27th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_29th_January_Evening_Shift",
+      "title": "JEE Main 2024 29th January Evening Shift",
+      "file": "JEE_Main_2024_29th_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_29th_January_Morning_Shift",
+      "title": "JEE Main 2024 29th January Morning Shift",
+      "file": "JEE_Main_2024_29th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_30th_January_Morning_Shift",
+      "title": "JEE Main 2024 30th January Morning Shift",
+      "file": "JEE_Main_2024_30th_January_Morning_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_31st_January_Evening_Shift",
+      "title": "JEE Main 2024 31st January Evening Shift",
+      "file": "JEE_Main_2024_31st_January_Evening_Shift.json"
+    },
+    {
+      "id": "JEE_Main_2024_31st_January_Morning_Shift",
+      "title": "JEE Main 2024 31st January Morning Shift",
+      "file": "JEE_Main_2024_31st_January_Morning_Shift.json"
+    }
+  ],
+  "JEE_Advanced_PYQ": [
+    {
+      "id": "JEE_Advanced_2013_Paper_1_Offline",
+      "title": "JEE Advanced 2013 Paper 1 Offline",
+      "file": "JEE_Advanced_2013_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2013_Paper_2_Offline",
+      "title": "JEE Advanced 2013 Paper 2 Offline",
+      "file": "JEE_Advanced_2013_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2014_Paper_1_Offline",
+      "title": "JEE Advanced 2014 Paper 1 Offline",
+      "file": "JEE_Advanced_2014_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2014_Paper_2_Offline",
+      "title": "JEE Advanced 2014 Paper 2 Offline",
+      "file": "JEE_Advanced_2014_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2015_Paper_1_Offline",
+      "title": "JEE Advanced 2015 Paper 1 Offline",
+      "file": "JEE_Advanced_2015_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2015_Paper_2_Offline",
+      "title": "JEE Advanced 2015 Paper 2 Offline",
+      "file": "JEE_Advanced_2015_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2016_Paper_1_Offline",
+      "title": "JEE Advanced 2016 Paper 1 Offline",
+      "file": "JEE_Advanced_2016_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2016_Paper_2_Offline",
+      "title": "JEE Advanced 2016 Paper 2 Offline",
+      "file": "JEE_Advanced_2016_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2017_Paper_1_Offline",
+      "title": "JEE Advanced 2017 Paper 1 Offline",
+      "file": "JEE_Advanced_2017_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2017_Paper_2_Offline",
+      "title": "JEE Advanced 2017 Paper 2 Offline",
+      "file": "JEE_Advanced_2017_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2018_Paper_1_Offline",
+      "title": "JEE Advanced 2018 Paper 1 Offline",
+      "file": "JEE_Advanced_2018_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2018_Paper_2_Offline",
+      "title": "JEE Advanced 2018 Paper 2 Offline",
+      "file": "JEE_Advanced_2018_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2019_Paper_1_Offline",
+      "title": "JEE Advanced 2019 Paper 1 Offline",
+      "file": "JEE_Advanced_2019_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2019_Paper_2_Offline",
+      "title": "JEE Advanced 2019 Paper 2 Offline",
+      "file": "JEE_Advanced_2019_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2020_Paper_1_Offline",
+      "title": "JEE Advanced 2020 Paper 1 Offline",
+      "file": "JEE_Advanced_2020_Paper_1_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2020_Paper_2_Offline",
+      "title": "JEE Advanced 2020 Paper 2 Offline",
+      "file": "JEE_Advanced_2020_Paper_2_Offline.json"
+    },
+    {
+      "id": "JEE_Advanced_2021_Paper_1_Online",
+      "title": "JEE Advanced 2021 Paper 1 Online",
+      "file": "JEE_Advanced_2021_Paper_1_Online.json"
+    },
+    {
+      "id": "JEE_Advanced_2021_Paper_2_Online",
+      "title": "JEE Advanced 2021 Paper 2 Online",
+      "file": "JEE_Advanced_2021_Paper_2_Online.json"
+    },
+    {
+      "id": "JEE_Advanced_2022_Paper_1_Online",
+      "title": "JEE Advanced 2022 Paper 1 Online",
+      "file": "JEE_Advanced_2022_Paper_1_Online.json"
+    },
+    {
+      "id": "JEE_Advanced_2022_Paper_2_Online",
+      "title": "JEE Advanced 2022 Paper 2 Online",
+      "file": "JEE_Advanced_2022_Paper_2_Online.json"
+    },
+    {
+      "id": "JEE_Advanced_2023_Paper_1_Online",
+      "title": "JEE Advanced 2023 Paper 1 Online",
+      "file": "JEE_Advanced_2023_Paper_1_Online.json"
+    },
+    {
+      "id": "JEE_Advanced_2023_Paper_2_Online",
+      "title": "JEE Advanced 2023 Paper 2 Online",
+      "file": "JEE_Advanced_2023_Paper_2_Online.json"
+    }
+  ],
+  "JEE_Main_Mock_Tests": [
+    {
+      "id": "JEE_Main_Mock_Test_01",
+      "title": "JEE Main Mock Test 01",
+      "file": "JEE_Main_Mock_Test_01.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_02",
+      "title": "JEE Main Mock Test 02",
+      "file": "JEE_Main_Mock_Test_02.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_03",
+      "title": "JEE Main Mock Test 03",
+      "file": "JEE_Main_Mock_Test_03.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_04",
+      "title": "JEE Main Mock Test 04",
+      "file": "JEE_Main_Mock_Test_04.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_05",
+      "title": "JEE Main Mock Test 05",
+      "file": "JEE_Main_Mock_Test_05.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_06",
+      "title": "JEE Main Mock Test 06",
+      "file": "JEE_Main_Mock_Test_06.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_07",
+      "title": "JEE Main Mock Test 07",
+      "file": "JEE_Main_Mock_Test_07.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_08",
+      "title": "JEE Main Mock Test 08",
+      "file": "JEE_Main_Mock_Test_08.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_09",
+      "title": "JEE Main Mock Test 09",
+      "file": "JEE_Main_Mock_Test_09.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_10",
+      "title": "JEE Main Mock Test 10",
+      "file": "JEE_Main_Mock_Test_10.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_11",
+      "title": "JEE Main Mock Test 11",
+      "file": "JEE_Main_Mock_Test_11.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_12",
+      "title": "JEE Main Mock Test 12",
+      "file": "JEE_Main_Mock_Test_12.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_13",
+      "title": "JEE Main Mock Test 13",
+      "file": "JEE_Main_Mock_Test_13.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_14",
+      "title": "JEE Main Mock Test 14",
+      "file": "JEE_Main_Mock_Test_14.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_15",
+      "title": "JEE Main Mock Test 15",
+      "file": "JEE_Main_Mock_Test_15.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_16",
+      "title": "JEE Main Mock Test 16",
+      "file": "JEE_Main_Mock_Test_16.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_17",
+      "title": "JEE Main Mock Test 17",
+      "file": "JEE_Main_Mock_Test_17.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_18",
+      "title": "JEE Main Mock Test 18",
+      "file": "JEE_Main_Mock_Test_18.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_19",
+      "title": "JEE Main Mock Test 19",
+      "file": "JEE_Main_Mock_Test_19.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_20",
+      "title": "JEE Main Mock Test 20",
+      "file": "JEE_Main_Mock_Test_20.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_21",
+      "title": "JEE Main Mock Test 21",
+      "file": "JEE_Main_Mock_Test_21.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_22",
+      "title": "JEE Main Mock Test 22",
+      "file": "JEE_Main_Mock_Test_22.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_23",
+      "title": "JEE Main Mock Test 23",
+      "file": "JEE_Main_Mock_Test_23.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_24",
+      "title": "JEE Main Mock Test 24",
+      "file": "JEE_Main_Mock_Test_24.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_25",
+      "title": "JEE Main Mock Test 25",
+      "file": "JEE_Main_Mock_Test_25.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_26",
+      "title": "JEE Main Mock Test 26",
+      "file": "JEE_Main_Mock_Test_26.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_27",
+      "title": "JEE Main Mock Test 27",
+      "file": "JEE_Main_Mock_Test_27.json"
+    },
+    {
+      "id": "JEE_Main_Mock_Test_28",
+      "title": "JEE Main Mock Test 28",
+      "file": "JEE_Main_Mock_Test_28.json"
+    }
+  ],
+  "NEET_AIPMT": [
+    {
+      "id": "AIPMT_2000",
+      "title": "AIPMT 2000",
+      "file": "AIPMT_2000.json"
+    },
+    {
+      "id": "AIPMT_2001",
+      "title": "AIPMT 2001",
+      "file": "AIPMT_2001.json"
+    },
+    {
+      "id": "AIPMT_2002",
+      "title": "AIPMT 2002",
+      "file": "AIPMT_2002.json"
+    },
+    {
+      "id": "AIPMT_2003",
+      "title": "AIPMT 2003",
+      "file": "AIPMT_2003.json"
+    },
+    {
+      "id": "AIPMT_2004",
+      "title": "AIPMT 2004",
+      "file": "AIPMT_2004.json"
+    },
+    {
+      "id": "AIPMT_2005",
+      "title": "AIPMT 2005",
+      "file": "AIPMT_2005.json"
+    },
+    {
+      "id": "AIPMT_2006",
+      "title": "AIPMT 2006",
+      "file": "AIPMT_2006.json"
+    },
+    {
+      "id": "AIPMT_2007",
+      "title": "AIPMT 2007",
+      "file": "AIPMT_2007.json"
+    },
+    {
+      "id": "AIPMT_2008",
+      "title": "AIPMT 2008",
+      "file": "AIPMT_2008.json"
+    },
+    {
+      "id": "AIPMT_2009",
+      "title": "AIPMT 2009",
+      "file": "AIPMT_2009.json"
+    },
+    {
+      "id": "AIPMT_2010",
+      "title": "AIPMT 2010",
+      "file": "AIPMT_2010.json"
+    },
+    {
+      "id": "AIPMT_2010_Mains",
+      "title": "AIPMT 2010 Mains",
+      "file": "AIPMT_2010_Mains.json"
+    },
+    {
+      "id": "AIPMT_2011",
+      "title": "AIPMT 2011",
+      "file": "AIPMT_2011.json"
+    },
+    {
+      "id": "AIPMT_2011_Mains",
+      "title": "AIPMT 2011 Mains",
+      "file": "AIPMT_2011_Mains.json"
+    },
+    {
+      "id": "AIPMT_2012",
+      "title": "AIPMT 2012",
+      "file": "AIPMT_2012.json"
+    },
+    {
+      "id": "AIPMT_2012_Mains",
+      "title": "AIPMT 2012 Mains",
+      "file": "AIPMT_2012_Mains.json"
+    },
+    {
+      "id": "AIPMT_2014",
+      "title": "AIPMT 2014",
+      "file": "AIPMT_2014.json"
+    },
+    {
+      "id": "AIPMT_2015",
+      "title": "AIPMT 2015",
+      "file": "AIPMT_2015.json"
+    },
+    {
+      "id": "AIPMT_2015_Cancelled",
+      "title": "AIPMT 2015 Cancelled",
+      "file": "AIPMT_2015_Cancelled.json"
+    },
+    {
+      "id": "NEET_2013",
+      "title": "NEET 2013",
+      "file": "NEET_2013.json"
+    },
+    {
+      "id": "NEET_2013_Part2",
+      "title": "NEET 2013 Part2",
+      "file": "NEET_2013_Part2.json"
+    },
+    {
+      "id": "NEET_2016_Phase_1",
+      "title": "NEET 2016 Phase 1",
+      "file": "NEET_2016_Phase_1.json"
+    },
+    {
+      "id": "NEET_2016_Phase_2",
+      "title": "NEET 2016 Phase 2",
+      "file": "NEET_2016_Phase_2.json"
+    },
+    {
+      "id": "NEET_2017",
+      "title": "NEET 2017",
+      "file": "NEET_2017.json"
+    },
+    {
+      "id": "NEET_2018",
+      "title": "NEET 2018",
+      "file": "NEET_2018.json"
+    },
+    {
+      "id": "NEET_2019",
+      "title": "NEET 2019",
+      "file": "NEET_2019.json"
+    },
+    {
+      "id": "NEET_2020_Phase_1",
+      "title": "NEET 2020 Phase 1",
+      "file": "NEET_2020_Phase_1.json"
+    },
+    {
+      "id": "NEET_2021",
+      "title": "NEET 2021",
+      "file": "NEET_2021.json"
+    },
+    {
+      "id": "NEET_2022_Phase_1",
+      "title": "NEET 2022 Phase 1",
+      "file": "NEET_2022_Phase_1.json"
+    },
+    {
+      "id": "NEET_2022_Phase_2",
+      "title": "NEET 2022 Phase 2",
+      "file": "NEET_2022_Phase_2.json"
+    },
+    {
+      "id": "NEET_2023",
+      "title": "NEET 2023",
+      "file": "NEET_2023.json"
+    },
+    {
+      "id": "NEET_2023_Part2",
+      "title": "NEET 2023 Part2",
+      "file": "NEET_2023_Part2.json"
+    }
+  ]
+}
